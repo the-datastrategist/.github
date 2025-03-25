@@ -1,6 +1,20 @@
-# the-datastrategist | Portfolio
+# the-datastrategist Portfolio
 
 Hi, I'm Gordon Silvera — a freelance data science consultant helping startups and enterprise companies turn data into action.
+
+## Services
+
+<details>
+  <summary>Click to expand</summary>
+
+  Your collapsible content goes here.  
+  You can use **Markdown** inside too, like lists:
+
+  - Item 1  
+  - Item 2  
+  - [Links](#) and **bold text** work too!
+
+</details>
 
 ## Featured Projects
 
