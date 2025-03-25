@@ -1,20 +1,33 @@
-# the-datastrategist Portfolio
+# Welcome to theDataStrategist
 
 Hi, I'm Gordon Silvera — a freelance data science consultant helping startups and enterprise companies turn data into action.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gordonsilvera)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)]([https://yourportfolio.com](https://github.com/the-datastrategist/.github/edit/main/README.md))
+
 
 ## Services
 
 <details>
-  <summary>Click to expand</summary>
+  <summary>Freelance Data Science</summary>
 
-  Your collapsible content goes here.  
-  You can use **Markdown** inside too, like lists:
-
-  - Item 1  
-  - Item 2  
-  - [Links](#) and **bold text** work too!
+  I've worked as a data scientist for companies including
+  - Spotify
+  - Indeed
+  - Cirkul
 
 </details>
+
+<details>
+  <summary>Dashboard Development & Operations</summary>
+
+  We will build and maintain custom dashboards for your organization
+  - Example 1
+  - Example 2
+  - Example 3
+
+</details>
+
 
 ## Featured Projects
 
@@ -35,5 +48,3 @@ You can reach me at [gordon@thedatastrategist.com] or on [Upwork]().
 
 🟢 Available for short-term projects and ongoing collaborations
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gordonsilvera)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=notion)]([https://yourportfolio.com](https://github.com/the-datastrategist/.github/edit/main/README.md))
