@@ -11,7 +11,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 <details>
   <summary><b>Freelance Data Science</b></summary>
 
-  I've worked as a data scientist for companies including
+  I've worked as a data scientist for companies including<br>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt="Spotify" height="30"/><br>
   <b>Senior Data Scientist</b> @ Spotify<br><br>
@@ -19,10 +19,10 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Indeed_logo.png" alt="Indeed" height="30"/><br>
   <b>Senior Product Scientist</b> @ Indeed<br><br>
   
-  <img src=".github/profile/images/logos/cirkul-seeklogo-2.svg" alt="Cirkul" height="30"/><br>
+  <img src="images/logos/cirkul-seeklogo-2.svg" alt="Cirkul" height="30"/><br>
   <b>Data Science Consultant</b> @ Cirkul<br><br>
   
-  <img src=".github/profile/images/logos/digitas-seeklogo.png" alt="Digitas" height="30"/><br>
+  <img src="images/logos/digitas-seeklogo.png" alt="Digitas" height="30"/><br>
   <b>Data Scientist</b> @ Digitas<br><br>
 
 </details>
