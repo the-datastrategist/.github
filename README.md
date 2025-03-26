@@ -9,7 +9,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 ## Services
 
 <details>
-  <summary>Freelance Data Science</summary>
+  <summary>__Freelance Data Science__</summary>
 
   I've worked as a data scientist for companies including
   - Spotify
@@ -19,7 +19,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary>Dashboard Development</summary>
+  <summary>__Dashboard Development__</summary>
 
   We will build and maintain custom dashboards for your organization
   - Example 1
@@ -29,7 +29,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary>Data Pipeline Development</summary>
+  <summary>__Data Pipeline Development__</summary>
 
   We will build and maintain data pipelines for your organization
   - Example 1
@@ -38,6 +38,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 
 </details>
 
+<br>
 
 ## Featured Projects
 
@@ -57,11 +58,18 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 
-
+<br>
 
 ## Templates
 
-...
+I use the following templates to reduce the time-to-impact for data science projects.
+These templates allow us to:
+- Set up projects quickly
+- Share work easily
+- Productionalize notebook code (almost) instantly
+
+
+<br>
 
 ## Toolkit
 
@@ -74,13 +82,12 @@ I focus on [Google Cloud Platform](https://cloud.google.com/) but can work with 
 - __DevOps__ | Docker · poetry · GitHub Actions
 - __Dashboards & Reporting__ | Looker · Tableau · Retool · Streamlit
 
+<br>
 
 ## Let’s Work Together
 
-I’m currently open to new consulting projects.  
-You can reach me at [gordon@thedatastrategist.com] or on [Upwork]().
+I’m open to new consulting projects.
+You can reach me at [gordon@thedatastrategist.com](mailto:gordon@thedatastrategist.com) or on [Upwork](https://www.upwork.com/freelancers/thedatastrategist).
 
-👉 [Schedule a Call](yourcalendlylink.com)
-
-🟢 Available for short-term projects and ongoing collaborations
-
+👉 [Schedule a Call](https://calendly.com/gordon-silvera/thedatastrategist-initial-meeting) or see more at
+[thedatastrategist.com](https://www.thedatastrategist.com).
