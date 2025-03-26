@@ -51,9 +51,19 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   In this project, we use data from a fictitious e-commerce company, TheLook, to build the technical and strategic components below. 
   The source data are publicly available from Google.
 
-  __TODO:__ 
+  <img src="images/thelook_company_metrics_dashboard_2.png" width="50%" />
+
+  __Deliverables__ 
+  - [Project Brief | Google Sheets](https://docs.google.com/document/d/1lKgfRu8e3j__711EazlMn1VUS68wOilqYVmDALAmbTQ/edit?usp=sharing). A summary of the work to complete. I create a project brief for every project.
+  - [Company Metrics Dashboard | Looker Studio](https://lookerstudio.google.com/reporting/44a538de-96fc-4af6-a534-33f5090634b3). A simple executive summary for business performance.
+  - [Data Pipeline | dbt + BigQuery](https://github.com/the-datastrategist/thelook-ecommerce). The data pipeline that sources the Company Metrics Dashboard.
+
+  __TODO__
   - Add dashboard image
   - Add links to deliverables
+  - Complete Company Metrics dashboard
+  - Improve visualizations in Company Metrics dashboard
+  - Move dbt pipeline to poetry
 
 </details>
 
