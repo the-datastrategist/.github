@@ -63,14 +63,16 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   In this project, we use data from a fictitious e-commerce company, TheLook, to build the technical and strategic components below. 
   The source data are publicly available from Google.
 
-  <img src="images/thelook_company_metrics_dashboard_2.png" width="50%" />
-
   __Deliverables__ 
   - [Project Brief | Google Sheets](https://docs.google.com/document/d/1lKgfRu8e3j__711EazlMn1VUS68wOilqYVmDALAmbTQ/edit?usp=sharing). A summary of the work to complete. I create a project brief for every project.
   - [Company Metrics Dashboard | Looker Studio](https://lookerstudio.google.com/reporting/44a538de-96fc-4af6-a534-33f5090634b3). A simple executive summary for business performance.
   - [Data Pipeline | dbt + BigQuery](https://github.com/the-datastrategist/thelook-ecommerce). The data pipeline that sources the Company Metrics Dashboard.
   - [Dashboard Design | Figma](https://www.figma.com/design/vYJqKy7vMKfDc5Kr8rZAkN/tDS-%7C-Dashboard-Design-Template?node-id=0-1&p=f). Before the build, we can design your dashboard.
   - [Data Catalog | Google Sheets](https://docs.google.com/spreadsheets/d/1mhPl2p2TV6lHnVCt50jer-9SrDpR4ChXdnThSBOyMbI/edit?gid=2036193832#gid=2036193832). This simple Data Catalog will help us track, understand, and communicate your data from where it's sourced until when it's used.
+
+  <br>
+
+  <img src="images/thelook_company_metrics_dashboard_2.png" width="50%" />
 
   __TODO__
   - Improve dashboard image
@@ -80,6 +82,18 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   - Move dbt pipeline to poetry
 
   <br>
+
+</details>
+
+<details>
+  <summary><b> "The Most Python" Report</b></summary>
+
+  I analyzed 200K IPython notebooks and 2M+ StackOverview posts to identify Python's most common code, libraries, and questions.
+
+  __Deliverables__
+  - [The Top 10 Python Functions used by Data Scientists | Medium](https://thedatastrategist.medium.com/what-are-pythons-most-used-functions-d760dc28fd96)
+  - [Dashboard | Looker Studio](https://lookerstudio.google.com/reporting/a5096f7e-26c8-48f7-a496-da1fdef6b008). Dashboard containing basic insights on Python usage.
+  - [the-most-python | Github](https://github.com/the-datastrategist/the_most_python) This repo uses dbt to manage the data pipelines.
 
 </details>
 
