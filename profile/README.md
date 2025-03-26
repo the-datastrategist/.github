@@ -88,13 +88,23 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 
 ## Templates
 
+I use the following templates to reduce the time-to-impact for data science projects.
+- [python-library-template](https://github.com/the-datastrategist/python-library-template)
+- [tds-library-template](https://github.com/the-datastrategist/tds-library-template)
+- [tds-dbt-template](https://github.com/the-datastrategist/tds-dbt-template)
+- [tds-streamlit-template](https://github.com/the-datastrategist/tds-streamlit-template)
+
 These templates allow us to:
 - Set up projects quickly
 - Share work easily
 - Productionalize notebook code (almost) instantly
 
-I use the following templates to reduce the time-to-impact for data science projects.
-- [python-template]()
+<br>
+
+__TODO:__
+- Build unfinished templates
+- Add relevant utils to each template
+- Add README to each template
 
 <br>
 
