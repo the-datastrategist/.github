@@ -9,7 +9,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 ## Services
 
 <details>
-  <summary>__Freelance Data Science__</summary>
+  <summary><b>Freelance Data Science</b></summary>
 
   I've worked as a data scientist for companies including
   - Spotify
@@ -19,7 +19,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary>__Dashboard Development__</summary>
+  <summary><b>Dashboard Development</b></summary>
 
   We will build and maintain custom dashboards for your organization
   - Example 1
@@ -29,7 +29,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary>__Data Pipeline Development__</summary>
+  <summary><b>Data Pipeline Development</b></summary>
 
   We will build and maintain data pipelines for your organization
   - Example 1
@@ -43,7 +43,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 ## Featured Projects
 
 <details>
-  <summary>TheLook: eCommerce Dashboard Development</summary>
+  <summary><b>TheLook: eCommerce Dashboard Development</b></summary>
 
   We build data pipelines and dashboards using best-in-class services such as Fivetran, Google BigQuery, dbt, and Looker. 
   We combine this with strategic frameworks to ensure the data, metrics, and dashboards are properly understood across the business.
