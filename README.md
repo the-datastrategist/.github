@@ -19,9 +19,19 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary>Dashboard Development & Operations</summary>
+  <summary>Dashboard Development</summary>
 
   We will build and maintain custom dashboards for your organization
+  - Example 1
+  - Example 2
+  - Example 3
+
+</details>
+
+<details>
+  <summary>Data Pipeline Development</summary>
+
+  We will build and maintain data pipelines for your organization
   - Example 1
   - Example 2
   - Example 3
@@ -31,13 +41,39 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 
 ## Featured Projects
 
-- 📈 [Project 1](link) — automated predictions based on sales + weather  
-- 💸 [Project 2](link) — scalable system for hourly trading decisions  
-- 🌍 [Project 3](link) — on-chain + off-chain analytics for DAOs
+<details>
+  <summary>TheLook: eCommerce Dashboard Development</summary>
 
-## Tools
+  We build data pipelines and dashboards using best-in-class services such as Fivetran, Google BigQuery, dbt, and Looker. 
+  We combine this with strategic frameworks to ensure the data, metrics, and dashboards are properly understood across the business.
+  
+  In this project, we use data from a fictitious e-commerce company, TheLook, to build the technical and strategic components below. 
+  The source data are publicly available from Google.
 
-Python · SQL · Scikit-learn · Airflow · BigQuery · GCP · dbt · Looker · Tableau · GitHub Actions · poetry · Docker
+  __TODO:__ 
+  - Add dashboard image
+  - Add links to deliverables
+
+</details>
+
+
+
+
+## Templates
+
+...
+
+## Toolkit
+
+I focus on [Google Cloud Platform](https://cloud.google.com/) but can work with any data stack.
+
+- __Code__ | Python · SQL
+- __Stats & ML__ | Scikit-learn
+- __Databases__ | BigQuery · dbt
+- __Orchestration__ | Airflow · Prefect · dbt · MarvinAI
+- __DevOps__ | Docker · poetry · GitHub Actions
+- __Dashboards & Reporting__ | Looker · Tableau · Retool · Streamlit
+
 
 ## Let’s Work Together
 
