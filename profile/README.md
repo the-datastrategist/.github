@@ -16,6 +16,11 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   - Indeed
   - Cirkul
 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg" alt="Spotify" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Indeed_logo.svg" alt="Indeed" width="100"/>
+  <img src="https://assets-global.website-files.com/62839d31af6f5e14126aa6a3/63f62e3e0a3a44c5c9a21eb5_logo.png" alt="Cirkul" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Digitas_logo.svg" alt="Digitas" width="100"/>
+
 </details>
 
 <details>
