@@ -5,11 +5,12 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gordonsilvera)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github)]([https://yourportfolio.com](https://github.com/the-datastrategist/.github/edit/main/README.md))
 
+<br>
 
 ## Services
 
 <details>
-  <summary><b>Freelance Data Science</b></summary>
+  <summary><b> Freelance Data Science</b></summary>
 
   I've worked as a data scientist for companies including<br>
   
@@ -28,7 +29,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary><b>Dashboard Development</b></summary>
+  <summary><b> Dashboard Development</b></summary>
 
   We will build and maintain custom dashboards for your organization
   - Example 1
@@ -38,7 +39,7 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 </details>
 
 <details>
-  <summary><b>Data Pipeline Development</b></summary>
+  <summary><b> Data Pipeline Development</b></summary>
 
   We will build and maintain data pipelines for your organization
   - Example 1
@@ -54,6 +55,8 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 <details>
   <summary><b>TheLook: eCommerce Dashboard Development</b></summary>
 
+  <br>
+  
   We build data pipelines and dashboards using best-in-class services such as Fivetran, Google BigQuery, dbt, and Looker. 
   We combine this with strategic frameworks to ensure the data, metrics, and dashboards are properly understood across the business.
   
@@ -66,13 +69,17 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
   - [Project Brief | Google Sheets](https://docs.google.com/document/d/1lKgfRu8e3j__711EazlMn1VUS68wOilqYVmDALAmbTQ/edit?usp=sharing). A summary of the work to complete. I create a project brief for every project.
   - [Company Metrics Dashboard | Looker Studio](https://lookerstudio.google.com/reporting/44a538de-96fc-4af6-a534-33f5090634b3). A simple executive summary for business performance.
   - [Data Pipeline | dbt + BigQuery](https://github.com/the-datastrategist/thelook-ecommerce). The data pipeline that sources the Company Metrics Dashboard.
+  - [Dashboard Design | Figma](https://www.figma.com/design/vYJqKy7vMKfDc5Kr8rZAkN/tDS-%7C-Dashboard-Design-Template?node-id=0-1&p=f). Before the build, we can design your dashboard.
+  - [Data Catalog | Google Sheets](https://docs.google.com/spreadsheets/d/1mhPl2p2TV6lHnVCt50jer-9SrDpR4ChXdnThSBOyMbI/edit?gid=2036193832#gid=2036193832). This simple Data Catalog will help us track, understand, and communicate your data from where it's sourced until when it's used.
 
   __TODO__
-  - Add dashboard image
+  - Improve dashboard image
   - Add links to deliverables
   - Complete Company Metrics dashboard
   - Improve visualizations in Company Metrics dashboard
   - Move dbt pipeline to poetry
+
+  <br>
 
 </details>
 
