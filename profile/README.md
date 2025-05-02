@@ -87,8 +87,8 @@ These templates allow us to:
 I focus on [Google Cloud Platform](https://cloud.google.com/) but can work with any data stack.
 
 - __Code__ | Python · SQL
-- __Stats & ML__ | Scikit-learn
-- __Databases__ | BigQuery · dbt
+- __Stats & ML__ | Scikit-learn · statsmodels · xgboost · tensorflow
+- __Databases__ | BigQuery · Redshift
 - __Orchestration__ | Airflow · Prefect · dbt · MarvinAI
 - __DevOps__ | Docker · poetry · GitHub Actions
 - __Dashboards & Reporting__ | Looker · Tableau · Retool · Streamlit
