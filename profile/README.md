@@ -11,32 +11,30 @@ Hi, I'm Gordon Silvera — a freelance data science consultant helping startups 
 <details>
   <summary><b>Freelance Data Science</b></summary>
 
-  I've worked as a data scientist for companies including
-  - Spotify
-  - Indeed
-  - Cirkul
+  As a top 1% Expert-Vetted data scientist on Upwork, I provide end-to-end analytical services to startups and enterprises alike. My freelance engagements combine technical execution with strategic insight—delivering everything from behavioral segmentation and forecasting models to executive dashboards and training programs. Clients span industries and growth stages, including a Fortune Fastest Growing Company and teams at Indeed and Spotify.
 
 </details>
 
 <details>
   <summary><b>Dashboard Development</b></summary>
 
-  We will build and maintain custom dashboards for your organization
-  - Example 1
-  - Example 2
-  - Example 3
-
+  I specialize in building high-impact dashboards that bring clarity to complex data. Whether surfacing executive KPIs or powering experimentation platforms like those used at Indeed and Spotify, I design analytics products using tools like BigQuery, dbt, Tableau, and Looker Studio. My dashboards are used daily by stakeholders—from product managers to C-suite leaders—to drive decisions and uncover value.
 </details>
 
 <details>
   <summary><b>Data Pipeline Development</b></summary>
-
-  We will build and maintain data pipelines for your organization
-  - Example 1
-  - Example 2
-  - Example 3
+  
+  Robust data pipelines are the foundation of scalable insights. I design and implement automated workflows using tools like Prefect, Airflow, and Fivetran to ensure data flows cleanly and reliably across cloud platforms. From ingestion to transformation, I’ve built pipelines that support reporting, experimentation analysis, and ML feature delivery—at scale for companies like Spotify and Indeed, and lean for high-growth startups.
 
 </details>
+
+<details>
+  <summary><b>Strategic Insights</b></summary>
+  
+  I help businesses unlock growth through analytical storytelling and data-driven strategy. Whether launching a segmentation framework at FanDuel, leading a cross-functional campaign at Spotify, or guiding pricing and expansion decisions for eCommerce clients, I blend quantitative rigor with business intuition. My insights don’t just explain what happened—they drive what’s next.
+
+</details>
+
 
 <br>
 
